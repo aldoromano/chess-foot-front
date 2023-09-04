@@ -97,7 +97,7 @@ export default function App() {
                       <Stack.Screen
                         name="Home"
                         options={{
-                          title: "Explorer",
+                          title: "Stadium",
                           headerStyle: { backgroundColor: "red" },
                           headerTitleStyle: { color: "white" },
                         }}
